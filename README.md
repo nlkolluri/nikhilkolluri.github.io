@@ -1,1 +1,2 @@
-#edit of a bootstrap template to make a website
+Website visble at https://nlkolluri.github.io/nikhilkolluri.github.io/
+Created using edited bootstrap template
